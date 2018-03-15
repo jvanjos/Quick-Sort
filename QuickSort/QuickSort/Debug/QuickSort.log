@@ -1,0 +1,5 @@
+﻿  QuickSort.cpp
+c:\users\jvanj\source\repos\quicksort\quicksort\quicksort.cpp(79): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\quicksort\quicksort\quicksort.cpp(69): warning C4101: 'aux': variável local não referenciada
+c:\users\jvanj\source\repos\quicksort\quicksort\quicksort.cpp(69): warning C4101: 'j': variável local não referenciada
+  QuickSort.vcxproj -> C:\Users\jvanj\source\repos\QuickSort\Debug\QuickSort.exe
